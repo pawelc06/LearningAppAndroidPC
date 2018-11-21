@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "488449775416",
+    "firebase_url": "https://ibeacon-salesforce-mk.firebaseio.com",
+    "project_id": "ibeacon-salesforce-mk",
+    "storage_bucket": "ibeacon-salesforce-mk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488449775416:android:21f791c95241416c",
+        "android_client_info": {
+          "package_name": "com.salesforce.marketingcloud.android.demoapp.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488449775416-29hs0mt6m7ro45djt8j9nigs27jstq2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKKa8hWXjaU2_07AM9BYJp6OFK1KMUs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
